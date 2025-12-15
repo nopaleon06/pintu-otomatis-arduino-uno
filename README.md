@@ -25,6 +25,3 @@ Proyek ini merupakan sistem pintu otomatis berbasis RFID yang dikembangkan mengg
 
 ## Proses Pengerjaan
 Pengerjaan proyek dimulai dengan perancangan konsep sistem pintu otomatis berbasis RFID. Selanjutnya dilakukan perakitan perangkat keras dan pemrograman Arduino untuk membaca kartu RFID, mengontrol relay, serta menampilkan status akses menggunakan LED. Tahap terakhir adalah pengujian sistem untuk memastikan seluruh komponen dapat bekerja sesuai dengan fungsinya.
-
-## Penulis
-Nama: Naufal Nur Pardana
